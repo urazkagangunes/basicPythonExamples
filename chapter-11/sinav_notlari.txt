@@ -1,0 +1,3 @@
+Uraz Kağan GÜNEŞ:70,70,70
+Uraz GÜNEŞ:60,43,53
+Kağan GÜNEŞ:10,20,40
